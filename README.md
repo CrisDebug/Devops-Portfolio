@@ -18,6 +18,6 @@ continuo en un entorno clásico basado en VM.
 ## Evidencia
 
 La evidencia de esta etapa se encuentra en la carpeta
-[`etapa-1-ci-cd-vm/evidencia`](./evidencia), donde se incluyen
+[`etapa-1-ci-cd-vm/Evidencia-pipeline`](./Evidencia-pipeline), donde se incluyen
 capturas reales del pipeline ejecutándose y del despliegue exitoso
 en la máquina virtual.
